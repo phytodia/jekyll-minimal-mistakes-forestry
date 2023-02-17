@@ -17,4 +17,4 @@ fields:
   default: []
   label: tags
 pages:
-- _posts/test-post.md
+- _posts/2023-02-17-test-post.md
